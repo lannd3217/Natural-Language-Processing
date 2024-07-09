@@ -1,0 +1,7 @@
+Our task is to annotate how funny GoodReads book reviews are from a scale of 0 to 10, with 0 being not funny at all, and 1 being extremely funny. As a result, there will be 11 categories in total. 
+
+
+The source of the data is from a 2017 research group under Julian McAuley, who is a Computer Science professor at UCSD. The research was gathered by Mengting Wan, Rishabh Misra, Ndapa Nakashole, and Julian McAuley by scraping users' public shelves, which can be viewed by anyone on the web. As a result, the data is neither private nor under copyright, and can be freely shared with others.
+
+
+The entire dataset contains around 15 million multilingual reviews spread over 2 million books and across 465k users.

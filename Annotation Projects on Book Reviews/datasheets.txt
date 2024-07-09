@@ -1,0 +1,16 @@
+Does the dataset contain data that might be considered confidential (e.g., data that is protected by legal privilege or by doctor–patient confidentiality, data that includes the content of individuals’ non-public communications)?
+The dataset doesn't contain confidential information because the user IDs and review ID are anonymized, and it has other features such as book_id, rating, and review_text
+Is it possible to identify individuals (i.e., one or more natural persons), either directly or indirectly (i.e., in combination with other data) from the dataset?
+No, because user IDs and review IDs are anonymized
+Does the dataset contain data that might be considered sensitive in any way (e.g., data that reveals race or ethnic origins, sexual orientations, religious beliefs, political opinions or union memberships, or locations; financial or health data; biometric or genetic data; forms of government identification, such as social security numbers; criminal history)?
+No it doesn’t
+If the dataset is a sample from a larger set, what was the sampling strategy (e.g., deterministic, probabilistic with specific sampling probabilities)?
+The datasets were collected in late 2017. Does not have any sampling strategy
+Was the “raw” data saved in addition to the preprocessed/cleaned/labeled data (e.g., to support unanticipated future uses)? 
+Yes. They have one version that was parsed at sentence level and one raw dataset for reviews
+Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses? Is there anything about the composition of the dataset or the way it was collected and preprocessed/cleaned/labeled that might impact future uses?
+No
+Are there tasks for which the dataset should not be used?
+The dataset should not be used for commercial purpose
+Have any third parties imposed IP-based or other restrictions on the data associated with the instances?
+No.
